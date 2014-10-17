@@ -1,6 +1,6 @@
 # Python 2 vs 3
 
-Presentation and other materials related to the Python 2 to 3 transition. The materials were originally created by [Dylan Gregersen](astrodsg.github.io)for the [the Salt Lake City Python Meetup Group](http://www.meetup.com/Salt-Lake-City-Python-Web-Developers/). 
+Presentation and other materials related to the Python 2 to 3 transition. The materials were originally created by [Dylan Gregersen](astrodsg.github.io) for the [the Salt Lake City Python Meetup Group](http://www.meetup.com/Salt-Lake-City-Python-Web-Developers/). 
 
 
 ## Materials Here
